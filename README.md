@@ -1,7 +1,6 @@
 ---
 title: Time大学生专属App
 tags: Time,大学生,社交,冰海,未完成,创业项目,青岛海道王
-grammar_cjkRuby: true
 ---
 
 ![hello](http://image.binghai.site/data/f_75459483.jpg)
