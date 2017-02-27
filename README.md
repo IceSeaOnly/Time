@@ -3,7 +3,7 @@ title: Time大学生专属App
 tags: Time,大学生,社交,冰海,未完成,创业项目,青岛海道王
 ---
 
-![hello](http://image.binghai.site/data/f_75459483.jpg)
+![hello]()
 ## 简介
 >Time 是什么
 
@@ -18,18 +18,18 @@ Time创意来自山东科技大学的王贞涛，我的好哥们。我们我们�
 >启动页
 
 
-![](http://image.binghai.site/data/f_25386186.png)
+![](https://github.com/IceSeaOnly/Time/blob/master/f_25386186.png)
 > 主页
 
-![](http://image.binghai.site/data/f_89118415.png)
+![](https://github.com/IceSeaOnly/Time/blob/master/f_89118415.png)
 
 >我的页面
 
-![](http://image.binghai.site/data/f_45727601.png)
+![](https://github.com/IceSeaOnly/Time/blob/master/f_45727601.png)
 
 >表白墙
 
-![](http://image.binghai.site/data/f_99470296.png)
+![](https://github.com/IceSeaOnly/Time/blob/master/f_99470296.png)
 
 > 还有好多个页面，不一一展示了...
 
